@@ -11,7 +11,7 @@ class HomeScreen extends StatefulWidget {
 
 class DemoInfo {
   final String name;
-  final int votes;
+  final String votes;
   DemoInfo({this.name, this.votes});
 }
 
@@ -74,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
       trailing: Row(
         mainAxisSize: MainAxisSize.min,
         children: <Widget>[
-          Text(document['votes']),
+          Text(document['votes'].toString()),
           Icon(CupertinoIcons.right_chevron),
         ],
       ),
