@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535974611952-2gono5a39on41934t4nqgo5st6bkngh9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535974611952-2gono5a39on41934t4nqgo5st6bkngh9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSGuPb6Cidimedu9h3Yh9GdXan6limPLA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535974611952</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cloudApp1</string>
+	<key>PROJECT_ID</key>
+	<string>bandnamessurveyapp-657a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bandnamessurveyapp-657a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535974611952:ios:694e5a1b2d1935e63cab35</string>
+	<key>DATABASE_URL</key>
+	<string>https://bandnamessurveyapp-657a5.firebaseio.com</string>
+</dict>
+</plist>
